@@ -1,0 +1,14 @@
+# 编译产物
+build/
+
+# CLion / IDE
+.idea/
+
+# 备份文件
+*.bak
+*.bak-*
+*.orig
+
+# 系统文件
+Thumbs.db
+.DS_Store
